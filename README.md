@@ -20,7 +20,7 @@ Este projeto é um jogo de xadrez desenvolvido em Java como parte de um estudo s
 
 
 
-**_Principais Técnicas de POO Utilizadas_**
+## Principais Técnicas de POO Utilizadas
 <br/>
 
 **Encapsulamento**: Controla o acesso ao estado interno dos objetos do jogo.<br/>
@@ -32,4 +32,12 @@ Este projeto é um jogo de xadrez desenvolvido em Java como parte de um estudo s
 **Classes e Métodos Abstratos**: Usados para funcionalidade e comportamento comum entre as peças.<br/>
 
 **Downcasting**: Gerencia comportamentos específicos das peças, quando necessário.
-Sobrecarga de Métodos: Fornece flexibilidade no uso de métodos dependendo dos parâmetros.
+Sobrecarga de Métodos: Fornece flexibilidade no uso de métodos dependendo dos parâmetros.<br/>
+<br/>
+## Status do Projeto
+- [x] Finalizado.
+
+## Autor
+
+* Marcos Alexandre Pereira.
+* [Linkedin](https://www.linkedin.com/in/marcosalexandrepereira/)
