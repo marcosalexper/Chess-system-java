@@ -2,6 +2,7 @@
 Este projeto é um jogo de xadrez desenvolvido em Java como parte de um estudo sobre técnicas de programação orientada a objetos (POO). O objetivo é reforçar os principais princípios da POO, estruturas de dados e padrões de design comuns, construindo um jogo de xadrez totalmente funcional.<br/>
 <br/>
 
+## Estrutura e Funcionalidades
 
 **Representação do Tabuleiro**: O tabuleiro de xadrez é implementado usando uma matriz (array 2D), permitindo fácil manipulação de posições e peças.<br/>
 
@@ -21,7 +22,7 @@ Este projeto é um jogo de xadrez desenvolvido em Java como parte de um estudo s
 
 
 ## Principais Técnicas de POO Utilizadas
-<br/>
+
 
 **Encapsulamento**: Controla o acesso ao estado interno dos objetos do jogo.<br/>
 
