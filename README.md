@@ -32,8 +32,9 @@ Este projeto é um jogo de xadrez desenvolvido em Java como parte de um estudo s
 
 **Classes e Métodos Abstratos**: Usados para funcionalidade e comportamento comum entre as peças.<br/>
 
-**Downcasting**: Gerencia comportamentos específicos das peças, quando necessário.
-Sobrecarga de Métodos: Fornece flexibilidade no uso de métodos dependendo dos parâmetros.<br/>
+**Downcasting**: Gerencia comportamentos específicos das peças, quando necessário.<br/>
+
+**Sobrecarga de Métodos**: Fornece flexibilidade no uso de métodos dependendo dos parâmetros.<br/>
 <br/>
 ## Status do Projeto
 - [x] Finalizado.
